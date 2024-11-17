@@ -1,4 +1,4 @@
-# H5P.Animator: Editor
+# H5P.Animator: Tutorial
 _H5P.Animator_ is a tool you can use to create simple animations. It does not compete with highly sophisticated tools like Blender or After Effects, but rather on the level of what many people do with PowerPoint. It is based on the [H5P](https://h5p.org) framework.
 
 Here's a short tutorial. We're going to create a very simple animation with three different elements. So, here we go!
@@ -70,7 +70,7 @@ The list view will open and the _Elements_ panel will appear. This panel contain
 2. In the list view, locate the _Animations_ tab and click in.
 The Animations panel will become visible, but will only contain a disabled _+_ button.
 
-![H5P.Animator: Animations panel Open](assets/animator_tutorial_animations_panel.png?raw=true)
+![H5P.Animator: Animations panel open](assets/animator_tutorial_animations_panel.png?raw=true)
 
 3. Select your first text element with the label "Hello,".
 The element is selected and the _+_ button is enabled.
