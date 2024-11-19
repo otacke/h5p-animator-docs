@@ -30,6 +30,7 @@ Here you can add an audio file to be used as background music for the animation.
 ### Behavioural settings
 This is where you set the _aspect ratio_ for your animation. By default, it is 16/9, which is a common default.
 You also have the option to _hide the player controls_ that the user of your animation will interact with. By default, the controls are always visible below the animation. If you choose to hide them, they will be placed above the bottom of the animation and will disappear after a moment unless the user hovers over the area with the mouse.
+Here you can add a _description_ of the video that will be put above the video. It will not be visible, but can be read by screen readers.
 
 ![H5P.Animator Behavioural Settings](assets/animator_editor_behavioural_settings.png?raw=true)
 
